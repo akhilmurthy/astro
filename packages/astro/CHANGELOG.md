@@ -1,5 +1,11 @@
 # astro
 
+## 4.0.8
+
+### Patch Changes
+
+- [#9478](https://github.com/withastro/astro/pull/9478) [`dfef925e1`](https://github.com/withastro/astro/commit/dfef925e1fd07f3efb9fde6f4f23548f2af7dc75) Thanks [@lilnasy](https://github.com/lilnasy)! - Improves errors in certain places to also report their causes.
+
 ## 4.0.7
 
 ### Patch Changes
